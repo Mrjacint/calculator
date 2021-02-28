@@ -9,10 +9,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: whitesmoke;
-  /* background: #0f0c29;
+  /* background: whitesmoke; */
+  background: #0f0c29;
   background: -webkit-linear-gradient(to right, #0f0c29, #302b63, #24243e);
-  background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
 }
 
 .calculator {
